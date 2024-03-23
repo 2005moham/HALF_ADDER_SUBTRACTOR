@@ -54,8 +54,10 @@ Figure -02 HALF Subtractor
 
 Developed by: RegisterNumber:*/
 
-**RTL Schematic**
+**RTL Schematic**![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/151419495/68fc4328-7f07-40cd-b9fc-c84ec1c756c7)
 
-**Output/TIMING Waveform**
 
-**Result:**
+**Output/TIMING Waveform**![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/151419495/e7596651-a8a0-4aac-a02d-4867cee9a525)
+
+
+**Result:**EXECUTED SUCCESSFULLY
